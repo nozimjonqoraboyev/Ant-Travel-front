@@ -1,0 +1,1 @@
+//barcha service adminlari uchun alohida directory ochiladi va ularning ichida alohida pagelar bo'ladi
