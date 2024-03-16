@@ -1,11 +1,11 @@
 import {Component} from "react";
 
-class Tours extends Component {
+class Monuments extends Component {
     render() {
         return (<div>
-            Sayohatlar
+            Obidalar
         </div>);
     }
 }
 
-export default Tours;
+export default Monuments;

@@ -1,11 +1,11 @@
 import {Component} from "react";
 
-class Tours extends Component {
+class Hospital extends Component {
     render() {
         return (<div>
-            Sayohatlar
+            Shifoxonalar
         </div>);
     }
 }
 
-export default Tours;
+export default Hospital;
