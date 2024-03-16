@@ -1,11 +1,11 @@
 import {Component} from "react";
 
-class Tours extends Component {
+class About extends Component {
     render() {
         return (<div>
-            Sayohatlar
+            Biz haqimizda
         </div>);
     }
 }
 
-export default Tours;
+export default About;
